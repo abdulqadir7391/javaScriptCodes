@@ -14,7 +14,7 @@ let abc = null
 // Symbol => it is unique
 
 
-console.log(typeof(name));
+console.log(typeof(name)); // it is use for checking the type of varaible
 console.log(typeof(age));
 console.log(typeof(isLoggedIn));
 console.log(typeof(abc));
